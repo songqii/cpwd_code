@@ -2,10 +2,11 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/atotto/clipboard"
-	"github.com/spf13/cobra"
 	"math/rand"
 	"time"
+
+	"github.com/atotto/clipboard"
+	"github.com/spf13/cobra"
 )
 
 var banner = `
@@ -20,10 +21,11 @@ var banner = `
 
 `
 
-var long = fmt.Sprintf("%s \n %s ", purple(banner),`
+var long = fmt.Sprintf("%s \n %s ", purple(banner), `
 cpwd can fast create password
 default create 16 length password
-` )
+
+`)
 
 var Random *rand.Rand
 var lowerCharacter = `abcdefghijklmopqrstuvwxyz`
