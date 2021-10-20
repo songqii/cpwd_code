@@ -1,7 +1,7 @@
 # cpwd
  🚀 cpwd is create password tool
 
-[![Ore Version](https://img.shields.io/badge/cpwd-0.0.1-yellowgreen)](https://github.com/songqii/cpwd)
+[![Ore Version](https://img.shields.io/badge/cpwd-0.0.3-brightgreen)](https://github.com/songqii/cpwd)
 
 
 ![](https://raw.githubusercontent.com/songqii/songqii.github.io/master/images/cpwd_1.png)
