@@ -1,7 +1,10 @@
 package main
 
-import "cpwd/cmd"
+import (
+	"cpwd/cmd"
+)
 
+// main
 func main() {
 	cmd.Execute()
 }
