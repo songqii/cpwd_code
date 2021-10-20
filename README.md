@@ -30,6 +30,7 @@ brew install cpwd
 
 ## Guide
 
+![](https://raw.githubusercontent.com/songqii/songqii.github.io/master/images/cpwd_gif_001.gif)
 to be continue
 
 ```shell
