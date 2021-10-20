@@ -13,9 +13,9 @@
 
 ### source code
 ```shell
-git clone https://github.com/songqii/cpwd.git
+git clone https://github.com/songqii/cpwd_code.git
 
-cd $GOPATH/src/cpwd
+cd $GOPATH/src/cpwd_code
 go build
 ```
 
